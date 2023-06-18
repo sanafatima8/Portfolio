@@ -141,7 +141,7 @@ export default function Home() {
              
             </p>
             <p className="text-md py-2 leading-8 text-gray-800 ">
-            I am eager to contribute my expertise to a dynamic team, where I can make a significant impact and continue to grow as a front-end web developer.
+            I am eager to contribute my expertise to a dynamic team, where I can make a important impact and continue to grow as a front-end web developer.
             </p>
           </div>
 
